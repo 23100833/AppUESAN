@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "780855345752",
+    "project_id": "prueba-2cedc",
+    "storage_bucket": "prueba-2cedc.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:780855345752:android:992dbaf3dcaa9f63a4002d",
+        "android_client_info": {
+          "package_name": "com.example.appuesan"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAZZHGi-1j0fks2w8s3OCG25GdXPGhEYTY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
